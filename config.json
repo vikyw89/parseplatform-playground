@@ -1,0 +1,7 @@
+{
+  "appId": "J5stAJeAoQQpztxKfZHnsqIuloik3bvrczD87NLa",
+  "masterKey": "by6ngGruS63TA1xx2zX3g9s2YjK12mQu17CeGqMP",
+  "appName": "server",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
